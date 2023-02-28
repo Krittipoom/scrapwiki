@@ -1,1 +1,0 @@
-from scrapwiki.WikipediaPage import read_url
